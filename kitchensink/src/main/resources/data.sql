@@ -1,0 +1,5 @@
+insert into "MEMBERS" (name, email, phone_number) values ('John Smith', 'john.smith@mailinator.com', '2125551212') 
+insert into "MEMBERS" (name, email, phone_number) values ('Roger Federer', 'roger@mailinator.com', '2125551212') 
+insert into "MEMBERS" (name, email, phone_number) values ('Rafael Nadal', 'rafa@mailinator.com', '2125551212') 
+insert into "MEMBERS" (name, email, phone_number) values ('Novak Djokovic', 'novak@mailinator.com', '2125551212') 
+insert into "MEMBERS" (name, email, phone_number) values ('Stan Wawarinka', 'stan@mailinator.com', '2125551212') 
